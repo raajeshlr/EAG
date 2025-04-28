@@ -1143,5 +1143,10 @@
     "doc": "wrestling.txt",
     "chunk": "wresting is a game where two persons fight and the results are pre decided",
     "chunk_id": "wrestling_0"
+  },
+  {
+    "doc": "madurai.txt",
+    "chunk": "Madurai is a historic city located in the southern Indian state of Tamil Nadu. It is renowned for its rich cultural heritage and is often referred to as the \"Temple City\" due to the numerous ancient temples found throughout the area. The most famous of these is the Meenakshi Amman Temple, which attracts pilgrims and tourists from all over the world. Madurai has a vibrant history that dates back thousands of years, making it one of the oldest continuously inhabited cities in India. The city is also known for its traditional festivals, bustling markets, and delicious South Indian cuisine.",
+    "chunk_id": "madurai_0"
   }
 ]
